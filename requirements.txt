@@ -5,3 +5,7 @@ biopython
 xgboost
 torch
 tensorflow
+scikit-learn
+py3Dmol
+matplotlib
+
