@@ -8,4 +8,6 @@ tensorflow
 scikit-learn
 py3Dmol
 matplotlib
+xgboost==2.0.3
+
 
